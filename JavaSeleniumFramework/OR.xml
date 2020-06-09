@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menupage>     
+      <SearcBox>//input [@class="gLFyf gsfi"]</SearcBox>  
+      <Search_btn>//div[@class="FPdoLc tfB0Bf"]//input [@class="gNO89b" and  @type="submit"]</Search_btn>    
+ </menupage>
